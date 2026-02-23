@@ -137,6 +137,7 @@ This project demonstrates:
 ---
 
 # 📂 Project Structure
+.
 ├── 01_Python_Foundations
 ├── 02_Data_Science_Toolkit
 ├── 03_Mathematics_for_AI
